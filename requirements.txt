@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+openpyxl
+pyarrow
+pdfplumber
+SQLAlchemy
+PyMySQL
+reportlab
+scikit-learn
+pytest
